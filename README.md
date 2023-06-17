@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graphic Designer, Fullstack Developer and Junior Data Analyst
 -------------------------------------------------------------
 * 🌍  I'm based in Wa, Ghana
-* 🖥️  See my portfolio at [here](http://jamilb.netlify.app)
+* 🖥️  See my portfolio at [here](http://jamilb.vercel.app)
 * ✉️  You can contact me at [alhassanjamil0@gmail.com](mailto:alhassanjamil0@gmail.com)
-* 🧠  I'm learning TypeScript, Matplotlib and Scikit-learn
+* 🧠  I'm learning TypeScript and Flutter
 * 🤝  I'm open to collaborating on any React or Django projects.
 
 <a href="https://www.twitter.com/MhylJay" target="_blank" rel="noreferrer"><img
