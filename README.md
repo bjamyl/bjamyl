@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -------------------------------------------------------------
 * 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [here](http://jamilb.vercel.app)
+* 🖥️  See my portfolio at [here](https://jamilb.vercel.app)
 * ✉️  You can contact me at [alhassanjamil0@gmail.com](mailto:alhassanjamil0@gmail.com)
 * 🧠  I'm currently learning Golang
 * 🤝  I'm open to collaborating on any NextJs(React), Flutter,Django and Laravel projects.
